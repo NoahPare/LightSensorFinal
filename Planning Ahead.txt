@@ -1,0 +1,7 @@
+Planning Ahead / Reflection
+
+This project could definitly have been developed further than what it is. While it works witht he light sensor and the echoed command, it was originally a project that
+would work on the raspian side and send the command over to the windows side in order to change screen brightness. What doesnt word about this is the transfer of the
+information from the raspian side to the windows side. While it works to output a echo, in the future I wouldve liked to make that echo transfer from the linux side 
+to the windows side so that it works like intended with the pi and breadboard. Anothe thing I wouldve like to add to this project is that the light level on the screen is
+change only when a seperate button was pressed because my current code would only change the screen brightness when you open the script and run it.
